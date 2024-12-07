@@ -9,3 +9,7 @@ def f(x):
 for i in range(174457, 174506,1):
     if len(f(i))==4:
         print(f(i)[2],f(i)[3])
+    
+    
+    
+        
